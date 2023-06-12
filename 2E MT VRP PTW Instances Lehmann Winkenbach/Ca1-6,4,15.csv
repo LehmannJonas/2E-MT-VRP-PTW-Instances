@@ -1,0 +1,26 @@
+latitude,longitude,start TW,end TW,demand,service time,type,index,ID,customer type
+31,9,,,,0.0,depot,1,depot_0,
+-16,32,,,,0.0,depot,2,depot_1,
+-37,2,,,,0.0,depot,3,depot_2,
+-33,-4,,,,0.0,depot,4,depot_3,
+-13,-32,,,,0.0,depot,5,depot_4,
+27,-28,,,,0.0,depot,6,depot_5,
+15,16,,,,10.0,sat,7,sat_0_0,
+-14,16,,,,10.0,sat,8,sat_1_0,
+-23,-1,,,,10.0,sat,9,sat_2_0,
+15,-18,,,,10.0,sat,10,sat_3_0,
+3,-2,55.0,75.0,20.0,10.0,cust,11,cust_0,delivery
+-3,-17,69.0,89.0,10.0,10.0,cust,12,cust_1,pickup
+5,2,193.0,213.0,20.0,10.0,cust,13,cust_2,delivery
+-10,2,95.0,115.0,20.0,10.0,cust,14,cust_3,pickup
+-1,-1,129.0,149.0,20.0,10.0,cust,15,cust_4,delivery
+-9,21,75.0,95.0,10.0,10.0,cust,16,cust_5,pickup
+-7,0,205.0,225.0,20.0,10.0,cust,17,cust_6,delivery
+2,4,156.0,176.0,10.0,10.0,cust,18,cust_7,pickup
+25,-10,216.0,236.0,10.0,10.0,cust,19,cust_8,delivery
+-18,-20,126.0,146.0,20.0,10.0,cust,20,cust_9,pickup
+6,-18,157.0,177.0,20.0,10.0,cust,21,cust_10,delivery
+-8,12,132.0,152.0,10.0,10.0,cust,22,cust_11,pickup
+-24,14,88.0,108.0,10.0,10.0,cust,23,cust_12,delivery
+-4,-1,48.0,68.0,10.0,10.0,cust,24,cust_13,pickup
+-6,13,71.0,91.0,10.0,10.0,cust,25,cust_14,delivery
